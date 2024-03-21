@@ -1,0 +1,25 @@
+Sandbox_FR = {
+	Sandbox_ScentOfBlood = "Scent of Blood",
+	Sandbox_ScentOfBlood_scratchModifier = "Portée d'Attraction des Égratignures",
+	Sandbox_ScentOfBlood_sbleedModifier = "Portée d'Attraction des Égratignures Saignantes",
+	Sandbox_ScentOfBlood_scratchModifier_tooltip = "Lorsque griffé ou lorsqu'une égratignure est recouverte d'un bandage sale, les zombies dans ce rayon seront attirés vers la direction du joueur. Ces effets s'accumulent PAR blessure.",
+	Sandbox_ScentOfBlood_sbleedModifier_tooltip = "S'accumule avec chaque égratignure individuelle, le saignement augmente la portée. Réglez sur 0 pour désactiver.",
+	
+	Sandbox_ScentOfBlood_cutModifier = "Portée d'Attraction des Lacérations",
+	Sandbox_ScentOfBlood_cbleedModifier = "Portée d'Attraction des Lacérations Saignantes",
+	Sandbox_ScentOfBlood_cutModifier_tooltip = "Lorsque lacéré ou lorsqu'une lacération est recouverte d'un bandage sale, les zombies dans ce rayon seront attirés vers la direction du joueur. Ces effets s'accumulent PAR blessure.",
+	Sandbox_ScentOfBlood_cbleedModifier_tooltip = "S'accumule avec chaque lacération individuelle, le saignement augmente la portée. Réglez sur 0 pour désactiver.",
+	
+	Sandbox_ScentOfBlood_biteModifier = "Portée d'Attraction des Morsures",
+	Sandbox_ScentOfBlood_bbleedModifier = "Portée d'Attraction des Morsures Saignantes",
+	Sandbox_ScentOfBlood_biteModifier_tooltip = "Lorsque mordu ou lorsqu'une morsure est recouverte d'un bandage sale, les zombies dans ce rayon seront attirés vers la direction du joueur. Ces effets s'accumulent PAR blessure.",
+	Sandbox_ScentOfBlood_bbleedModifier_tooltip = "S'accumule avec chaque morsure individuelle, le saignement augmente la portée. Réglez sur 0 pour désactiver.",
+
+	Sandbox_ScentOfBlood_dwoundModifier = "Portée d'Attraction des Blessures Profondes",
+	Sandbox_ScentOfBlood_dbleedModifier = "Portée d'Attraction des Blessures Profondes Saignantes",
+	Sandbox_ScentOfBlood_dwoundModifier_tooltip = "Lorsque profondément blessé ou lorsqu'une blessure profonde est recouverte d'un bandage sale, les zombies dans ce rayon seront attirés vers la direction du joueur. Ces effets s'accumulent PAR blessure.",
+	Sandbox_ScentOfBlood_dbleedModifier_tooltip = "S'accumule avec chaque blessure profonde individuelle, le saignement augmente la portée. Réglez sur 0 pour désactiver.",
+
+	Sandbox_ScentOfBlood_dirtModifier = "Modificateur de Portée de Bandage Sale",
+	Sandbox_ScentOfBlood_dirtModifier_tooltip = "Les blessures couvertes par un bandage sale empêcheront toujours l'attraction du saignement. Réglez sur la valeur par défaut 50, les blessures bandagées avec un bandage sale auront leur portée réduite de moitié (par exemple, une Égratignure réglée sur 10, égratignure bandagée sale = 5). Réglez sur 0 pour que les bandages sales fonctionnent de la même manière que les bandages propres.",
+}
